@@ -184,6 +184,8 @@ ORDER BY SalesAmount DESC;
 ```
 ![top5employee](https://github.com/BuseGogusger/data_analysis_with_SQL-inform_a_business_decision/assets/135744125/a5a87ba8-4330-4d3a-8c1d-bed384978586)
 
+In this data analysis journey, we've not only explored the world of data but also paved the way for informed business decisions. By leveraging data insights, we empower the company to make strategic choices that drive growth and success. Now, armed with the knowledge of how to identify the top-performing employees who are responsible for the five highest order amounts, the company can take steps towards rewarding exemplary sales performance and ultimately boosting future sales.
 
+Thank you for joining me on this data-driven adventure, where we've pulled valuable insights from a database to answer critical business question. Together, we've unlocked the potential of data analysis to inform and transform.
 
 
