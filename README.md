@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-In this project, we explore the world of data analysis by pulling valuable insights from a database to answer critical business questions. Dive into the data, discover actionable insights, and drive informed decisions. 💡
+In this project provided by Coursera Project Network and W3 Schools, we explore the world of data analysis by pulling valuable insights from a database to answer critical business questions. Dive into the data, discover actionable insights, and drive informed decisions. 💡
 
 🔍 Data Analysis | 📈 Business Insights | 🚀 Decision-Making
 
